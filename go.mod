@@ -8,7 +8,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/jhillyerd/enmime v1.3.0
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/urfave/cli/v2 v2.27.5
+	github.com/urfave/cli/v2 v2.27.6
 	golang.org/x/net v0.33.0 // indirect
 	google.golang.org/appengine v1.6.2 // indirect
 )
