@@ -7,13 +7,13 @@ toolchain go1.23.7
 require (
 	github.com/flashmob/go-guerrilla v1.6.1
 	github.com/jhillyerd/enmime v1.3.0
-	github.com/urfave/cli/v2 v2.27.6
+	github.com/urfave/cli/v2 v2.27.7
 )
 
 require (
 	github.com/asaskevich/EventBus v0.0.0-20180315140547-d46933a94f05 // indirect
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f // indirect
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056 // indirect
